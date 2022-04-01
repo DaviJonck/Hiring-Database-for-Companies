@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Poppins:ital,wght@1,300&display=swap');
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+  }
+  
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background:#FAF7FD;
+    font-style: oblique;
+    font-family: "Poppins" sans-serif;
+}
+
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.contact {
+    
+    margin-left: 10px;
+    width: 15%;
+ 
+}
+
+.devknow {
+
+    margin-left: 10px;
+    width: 15%;
+    margin-top: 0% ;
+    
+   
+
+}
+
+.historia {
+    
+    margin-left: 10px;
+    width: 15%;
+    margin-top: 3%
+}
+
+.area {
+
+
+    border: 2px solid var(--purple);
+}
+
+.dev {
+
+
+    border: 2px solid var(--purple);
+}
+
+.conta {
+
+    border: 2px solid var(--purple);
+}
+
+.emailyesornot {
+
+    border: 2px solid var(--purple);
+}
